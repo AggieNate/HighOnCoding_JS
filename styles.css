@@ -1,0 +1,116 @@
+.topnav {
+	background: #67A7F3;
+	padding: 30px;
+}
+
+h2 {
+	color: white;
+	font-family: sans-serif;
+	font-size: 60px;
+	background: #67A7F3;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-right: 30px;
+	padding-left: 15px;
+	display: inline;
+}
+
+a {
+	color: white;
+	font-family: sans-serif;
+	font-size: 40px;
+	background: #67A7F3;
+	padding-top: px;
+	padding-bottom: 15px;
+	padding-right: 30px;
+	padding-left: 15px;
+	display: inline;
+	text-decoration: none;
+}
+
+.current {
+	font-weight: bold;
+	color: white;
+	font-family: sans-serif;
+	font-size: 40px;
+	background: #67A7F3;
+	padding-top: 20px;
+	padding-bottom: 15px;
+	padding-right: 30px;
+	padding-left: 15px;
+	display: inline;
+	text-decoration: none;
+}
+
+a:hover{
+	font-weight: bold;
+}
+
+.current-reviews {
+	background: #DDDEE0;
+	padding-top: 7px;
+	padding-left: 20px;
+	padding-bottom: 20px;
+	padding-right: 20px;
+	margin-top: 50px;
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-bottom: 50px;
+}
+
+.current-reviews-title {
+	font-size: 40px;
+	font-family: sans-serif;
+	color: #54585E;
+}
+
+.current-reviews-text {
+	font-size: 20px;
+	font-family: sans-serif;
+	padding-top: 30px;
+}
+
+.page-text {
+	padding-top: 7px;
+	padding-left: 20px;
+	padding-bottom: 10px;
+	padding-right: 20px;
+	margin-top: 10px;
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-bottom: 0px;
+	font-family: sans-serif;
+}
+
+.page-text-title {
+	font-size: 50px;
+	font-family: sans-serif;
+	color: #67A7F3;
+}
+
+.page-main-text {
+	margin-top: 5px;
+	font-size: 20px;
+	font-family: sans-serif;
+	padding-top: 30px;
+}
+
+.w3-bar {
+    overflow: hidden;
+    margin-left: 65px;
+    margin-right: 65px;
+    margin-top: 0px;
+    background-color: orange;
+    font-family: sans-serif;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    margin-bottom: 50px;
+}
+
+.w3-text {
+	color: white;
+	background-color: orange;
+	display: inline;
+	padding-right: 50px;
+	padding-left: 10px;
+}	
